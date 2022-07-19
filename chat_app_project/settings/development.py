@@ -30,7 +30,7 @@ SECRET_KEY = "fd2f471d4f64c134a556d8f3370e687b24ef33fa33c545733901a8395e4de8db"
 DEBUG = env("DEBUG")
 
 
-ALLOWED_HOSTS = ['*', 'django-chat-app-2022.herokuapp.com']
+ALLOWED_HOSTS  =  ['www.chat-djangoapp.herokuapp.com','chat-djangoapp.herokuapp.com']
 
 # Application definition
 
